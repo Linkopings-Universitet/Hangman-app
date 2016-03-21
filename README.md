@@ -41,14 +41,11 @@ I den här uppgiften ska du få testa hur det är att bygga en komplett applikat
 
 [hänga-gubbe]:https://sv.wikipedia.org/wiki/Hänga_gubbe
 
-Applikationen ska bestå av minst tre vyer. En startskärm, en skärm för inmatning av av ett ord och en spelskräm. Hur användargränssnittet kommer se ut är helt fritt så så länge kraven nedan uppfylls.
+Applikationen ska bestå av minst två vyer. En startskärm och en spelskräm. Hur användargränssnittet kommer se ut är helt fritt så så länge kraven nedan uppfylls. Orden som användaren ska gissa på ska slumpas fram från en hårdkodad lista som man får välja själv. Om man vill ladda orden från en extern källa så som fil eller en server så är det okej det också.
 
 - Startskärm
 	- Ska innehålla spelets titel
 	- Ha en knapp för att starta spelet
-- Inmatningsskärm
-	- Ett textfält där användaren kan matta in ett ord
-	- Det ska framgå att det inmatade ordet kommer användas i spelet på nästa skärm
 - Spelskärm
 	- Ett textfält där användaren kan mata in bokstäver
 	- Det ska framgå hur många gissningar användaren har gjort
